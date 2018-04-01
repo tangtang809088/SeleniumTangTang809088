@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2018-04-01T03:49:59Z" finished-at="2018-04-01T03:49:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46" started-at="2018-04-01T03:49:59Z" finished-at="2018-04-01T03:49:59Z">
+      <class name="TestNGDemo.TANGTANG.TestNG">
+        <test-method status="PASS" signature="test()[pri:0, instance:TestNGDemo.TANGTANG.TestNG@57baeedf]" name="test" duration-ms="24" started-at="2018-04-01T11:49:59Z" finished-at="2018-04-01T11:49:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- TestNGDemo.TANGTANG.TestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
